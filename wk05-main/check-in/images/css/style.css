@@ -1,0 +1,25 @@
+body {
+  background-color: #d3d3d3;  
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.dog-photo {
+  display: block;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: #555; 
+  border: 8px solid blue; 
+}
+
+.dog-photo img {
+  display: block;
+  max-width: 300px;  
+  height: auto;
+}
